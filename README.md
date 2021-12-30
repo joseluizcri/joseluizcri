@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=joseluizcri" alt="José Luiz" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=joseluizrosajunior" alt="José Luiz" /></p>
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou José Luiz</h1>
