@@ -1,7 +1,7 @@
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou José Luiz</h1>
 <p align = "justify">Full-Stack Developer</p>
 
-Atualmente, analista de sistema na [Betha Sistemas](https://www.betha.com.br)
+Atualmente, arquiteto de sistemas na [Betha Sistemas](https://www.betha.com.br)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-joseluizjunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseluizjunior/)](https://www.linkedin.com/in/joseluizjunior/)
